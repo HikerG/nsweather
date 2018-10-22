@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-//import hiker.weatherapp.R;
+import hiker.weatherapp.R;
 
 public class SelectCity extends Activity implements View.OnClickListener{
 
